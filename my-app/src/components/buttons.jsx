@@ -7,7 +7,7 @@ function openLocationLink (){
 
 function Buttons () {
     return( <div className="mt-28  max-md:mt-10 max-md:mr-2.5 max-md:max-w-full">
-    <div className="flex gap-5 max-md:flex-col ">
+    <div className="flex flex-col md:flex-row gap-5 max-md:flex-col ">
         <div onClick={openLocationLink} className="hover:bg-lime-950 hover:text-gray-200 cursor-pointer	 text-center grow justify-center items-center px-10 pt-24 pb-12 w-full text-2xl font-light text-lime-900 uppercase whitespace-nowrap bg-stone-100 max-md:px-5 max-md:pt-10 max-md:mt-10">
           Location
         </div>
