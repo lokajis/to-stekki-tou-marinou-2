@@ -13,8 +13,7 @@ function ReviewsTwo () {
     return(
         <div className="flex flex-col px-20 mt-1.5 w-full max-md:px-5 max-md:max-w-full">
         <div className="mx-2.5 text-lg font-light text-lime-900 max-md:max-w-full max-sm:-mt-px">
-          A restaurant surrounded by the Mediterranean which was designed, built
-          and operates with its own distinct philosophy.
+        Experience the essence of Cypriot culture at our village tavern in Lithrodontas, serving traditional mezedes that embody the warmth of local hospitality.
         </div>
         <div className="flex gap-5 justify-between items-center self-end mt-9 mr-2.5 max-w-full w-[737px] max-md:flex-wrap">
           <img  onClick={wizguide}

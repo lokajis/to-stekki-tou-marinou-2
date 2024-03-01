@@ -5,13 +5,12 @@ import MiddlePart from "../components/middlePart";
 import Reviews from "../components/reviews";
 import ReviewsTwo from "../components/reviewsTwo";
 
-function MyComponent(props) {
+function PageOne(props) {
   return (
     <div className="flex flex-col pt-8 pb-12 bg-stone-200">
     <Title / >
-     <ThreePicturses/>
-     <Lesant/>
    <MiddlePart/>
+
      <Reviews/>
 
      <ReviewsTwo/>
@@ -22,4 +21,4 @@ function MyComponent(props) {
 
 
 
-export default MyComponent;
+export default PageOne;
