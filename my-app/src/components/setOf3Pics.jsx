@@ -1,6 +1,6 @@
 function ThreePicturses () {
     return( 
-    <div className="self-center px-5 mt-36 w-full max-w-[1100px] max-md:mt-10 max-md:max-w-full">
+    <div className="self-center px-5 mt-36 w-full max-w-[1500px] max-md:mt-10 max-md:max-w-full">
     <div className="flex    flex-col max-sm:items-center  md:flex-row gap-5 max-md:flex-col max-md:gap-0 max-md:">
       <div className="  flex flex-col max-sm:w-[80%]   w-[33%] max-md:ml-0 max-md:w-full">
         <img
